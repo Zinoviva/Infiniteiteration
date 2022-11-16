@@ -1,4 +1,4 @@
-public interface Iterable <Integer>{
-    boolean hasNext();
-    Integer next();
-}
+//public interface Iterable <Integer>{
+//    boolean hasNext();
+//    Integer next();
+//}

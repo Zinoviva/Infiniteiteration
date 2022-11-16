@@ -1,3 +1,3 @@
-public interface Iterator <Integer>{
-    Iterator getIterator();
-}
+//public interface Iterator <Integer>{
+//    Iterator getIterator();
+//}
